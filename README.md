@@ -12,6 +12,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" height="30" width="30"/> Leetcode stats:
 - ![](https://leetcode-badge.haozibi.dev/v1/Yimin-zhou.svg)
 - Problems solve: ![](https://leetcode-badge.haozibi.dev/v1/solved/Yimin-zhou.svg)
-<!---
 - Records: ![](https://leetcode-badge.haozibi.dev/v1cn/chart/solved/Yimin-zhou.svg?day=15)
---->
