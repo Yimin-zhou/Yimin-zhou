@@ -1,4 +1,4 @@
-About me:
+<img src="https://images.emojiterra.com/google/android-nougat/512px/1f5a5.png" height="20" width="20"/> About me:
 - 👋 Hi, I’m Yimin Zhou
 - 👀 I’m interested in software, computer graphics, games
 - 🌱 I’m a student at TUD
