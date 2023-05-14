@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Yimin Zhou
 - 👀 I’m interested in software, computer graphics, games
 - 🌱 I’m a student at TUD
-- 📫 How to reach me: yiminzhou2022@gmail.com
+- 📫 How to reach me: yiminzhou2022_at_gmail.com
 
 <!---
 Yimin-zhou/Yimin-zhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
